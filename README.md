@@ -1,1 +1,1 @@
-# FakeNewsDetection
+# ClickBait Detection
